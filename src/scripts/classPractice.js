@@ -8,7 +8,7 @@ document.querySelector("#saveEntry").addEventListener("click", event => {
     const personName = document.querySelector("#fullName").value
     const personAddress = document.querySelector("#address").value
 
- 
+
     console.log("Person Name", personName.value)
     console.log("Person Address", personAddress.value)
     // Once you have collected all the values, update the DOM

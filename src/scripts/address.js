@@ -40,14 +40,14 @@ addressBook.push(newAddressBookEntry)
 //     const thing = document.querySelector("#thing").value
 //     const location = document.querySelector("#location").value
 
- 
+
 //     console.log("Thing", thing.value)
 //     console.log("location", location.value)
 //     // Once you have collected all the values, update the DOM
 //     // with some HTML
 //     container.innerHTML += `
 //         <section>
-//             <h1>"I can purhase${thing} at ${location}."</h1>            
+//             <h1>"I can purhase${thing} at ${location}."</h1>
 //         </section>
 //     `
 // })
