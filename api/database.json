@@ -1,0 +1,16 @@
+{
+"addresses": [
+    {
+        "name": "Billy",
+        "address": "123 Test Street"
+    },
+    {
+        "name": "Kristen",
+        "address": "123 Some Street"
+    },
+    {
+        "name": "Steve",
+        "address": "123 that street"
+    }
+    ]
+}

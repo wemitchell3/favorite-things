@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Favorite Things</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="address.css">
+    
+</head>
+<body>
+    <fieldset>
+        <label for="thing">What is your favorite thing?:</label>
+        <input type="text" id="thing" placeholder="What is your favorite thing?:" autofocus />
+    </fieldset>
+    <fieldset>
+        <label for="location">Where can you purchase it?:</label>
+        <input type="text" id="location" placeholder="Where can you purchase it?:" />
+    </fieldset>
+    <button id="saveEntry" placeholer="Enter Button">Enter</button>
+    <article id="thingLocation"> </article>
+
+    <script src="scripts/apiManager.js"></script>
+    <script src="scripts/address.js"></script>
+</body>
+</html>
